@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    document.body.innerHTML += showStory(stories);
+    document.body.innerHTML += presentStory(stories);
 });
